@@ -5,7 +5,7 @@
 layout: single
 author_profile: true
 header:
-    image: "/assets/images/mountains.jpg"
+    image: "/assets/images/airplane.jpg"
     overlay_filter: 0.5
 ---
 
