@@ -6,6 +6,7 @@ layout: single
 author_profile: true
 header:
     image: "/assets/images/mountains.jpg"
+    overlay_filter: 0.5
 ---
 
 <!-- ![img](/assets/images/mountains.jpg) -->
