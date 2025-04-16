@@ -4,7 +4,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
+header:
+    image: "/assets/images/mountains.jpg"
 ---
 
-![img](/assets/images/mountains.jpg)
+<!-- ![img](/assets/images/mountains.jpg) -->
 I am a graduate student at University of Texas at Austin. I am currently studying ML/AI and gaining exposure to various Deep Learning Models.

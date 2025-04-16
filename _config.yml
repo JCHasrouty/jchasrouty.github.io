@@ -104,9 +104,9 @@ defaults:
       comments: true
       share: true
       related: true
-      header:
-        overlay_filter: 0.5
-        overlay_image: /assets/images/mountain.jpg
+      # header:
+      #   overlay_filter: 0.5
+      #   overlay_image: /assets/images/mountain.jpg
   # _pages
   - scope:
       path: "_pages"
