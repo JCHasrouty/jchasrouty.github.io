@@ -4,9 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
-header:
-    image: "/assets/images/airplane.jpg"
-    overlay_filter: 0.5
 ---
 
 <!-- ![img](/assets/images/mountains.jpg) -->
