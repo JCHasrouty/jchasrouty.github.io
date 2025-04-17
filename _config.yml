@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Jean Claude Hasrouty"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Software/Systems Engineer currently pursuing my Masters in CS while contributing to the Space Sector."
+  bio    : "Software/Systems Engineer currently pursuing a Masters in Computer Science while contributing to the Space Sector."
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
