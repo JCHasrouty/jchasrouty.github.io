@@ -5,7 +5,3 @@
 layout: single
 author_profile: true
 ---
-
-# Welcome To My Page!
-
-

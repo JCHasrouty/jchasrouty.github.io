@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Jean Claude Hasrouty"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Software/Systems Engineer currently pursuing a Masters in Computer Science while contributing to the Space Sector."
+  bio    : "A nerd with a love for space."
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
@@ -74,11 +74,6 @@ author:
     - label: "LinkedIn"
       icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/jean-claude-hasrouty/"
-
-# header:
-#   image: "/assets/images/mountain.jpg"
-#   image_overlay_opacity: 0.5
-#   # caption: "Photo by <a href='https://unsplash.com/@joshuaearle'>Joshua Earle</a> on Unsplash"
 
 footer:
   links:
